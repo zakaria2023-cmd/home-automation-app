@@ -1,0 +1,7 @@
+{
+  "name": "home-automation-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
